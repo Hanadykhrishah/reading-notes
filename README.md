@@ -17,15 +17,17 @@ But if we want to create unordered list we use * and - like this
 
 with markdown we can do any things in easy way like if we want to create bold text we use ** before and after the text,like that **Hanady**.
 
+To add alink we use [] and () like this
+[Github](https://hanadykhrishah.github.io/reading-notes/)
+
+
+
+
 About Github We can say it is some thing online,with it we can share good things with every one and we can use it to store our codes and the most exciting thing that Github supports emoji ,we can add emoji to our writing by typing :EMOJICODE:
 
 :+1:
 
  Task Lists are also available in Gist comments and in Gist Markdown files.
-
-To add alink we use [] and () like this
-
-[Github](https://hanadykhrishah.github.io/reading-notes/)
 
 ___
  https://hanadykhrishah.github.io/reading-notes/
