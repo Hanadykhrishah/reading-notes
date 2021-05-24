@@ -1,14 +1,19 @@
 ___
-My name is **Hanady Alkhrishah**, I am 26 years old, I graduated 2018 from Mutah university with  amajor *Electrical/communication Engineering*
-I live in Alkarak /jordan ,I have two years experience teaching Electrical Engineering laboratories
-at Mutah University.
+**What is growth mindset?**
 
-(6.02.9200)  OS: Windows 10 Home Single Language
-* RAM:4G
-* 64Bit
+# *Growth mindset definition:*
 
-[Github](https://github.com/Hanadykhrishah)
+**“A growth mindset is when students understand that their abilities can be developed,”**
 
-[Replit](https://replit.com/@Hanady94)
+ **People** ***are born with unique ~~genetic structures~~, meaning they are initially better than others at different things. However, those with a growth mindset believe that one can always improve, catch up, or even surpass others’ natural talents. This is where teachers play a crucial role in shaping a student’s confidence and outlook on school through productive,
+ continuous feedback. It is crucial that “teachers who understand the growth mindset do everything in their power to unlock that learning***.
+ ___
  
-___
+ # TO KEEP MY GROWTH MINDSET:
+ * I should improve my skills and intelligence.
+ * Make an effort every time.
+ * Spend my time in everything that is useful and new.:shipit:
+ 
+ ___
+ 
+![](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
